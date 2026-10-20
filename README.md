@@ -1,136 +1,91 @@
 
-<div align="center">
+<!-- ================= PROFILE HEADER ================= -->
 
-# Hi 👋 I'm Harshpreet Kaur
+<h1 align="center">Hi 👋 I'm Harshpreet Kaur</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Python+Developer;Frontend+Developer;Machine+Learning+%26+AI+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects)](https://git.io/typing-svg)
+<h3 align="center">Software Developer · CSE Undergraduate</h3>
 
-### 💻 Computer Science Engineering Student (2027) • Frontend Developer • AI & Machine Learning Enthusiast
-
-Building intelligent software with Frontend Development, Python, Machine Learning, and AI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harshpreetkaur1012/)
-[![GitHub](https://img.shields.io/badge/GitHub-harshpreetkaur1012--web-black?logo=github)](https://github.com/harshpreetkaur1012-web)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:harshpreetkaur1012@gmail.com)
-
-</div>
-
----
-
-# 👩‍💻 About Me
-
-- 🎓 B.Tech Computer Science Engineering (2027)
-- 💻 Frontend Developer with experience in React & TypeScript
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🐍 Python Developer focused on building real-world applications
-- 🚀 Currently developing **VeriWork OS** as a Frontend Developer
-- 🌱 Continuously improving my skills in DSA, React, AWS, and System Design
-- 🎯 Seeking Software Development, Frontend Development, and AI/ML Internship opportunities
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+<p align="center">
+  Building, learning, and solving problems one step at a time.
 </p>
 
-## Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,flask,sqlite,git,github,vscode" />
+<p align="center">
+  <a href="https://leetcode.com/u/harshpreetkaur1012/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://linkedin.com/in/harshpreetkaur1012/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:harshpreetkaur1012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
+---
 
-## Frontend
+## `01` — About Me
+
+I'm a Computer Science Engineering student at **Punjabi University, Patiala**, working towards becoming a stronger software developer through consistent coding practice and hands-on development.
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Practising Data Structures & Algorithms using Java
+- 🐍 Building projects with Python
+- ⚛️ Exploring frontend development with React
+- 🧩 Improving problem-solving skills through LeetCode
+- 🎯 Interested in Software Development Internship opportunities
+
+---
+
+## `02` — Tech Stack & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,materialui" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
----
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🏨 Smart Hotel Booking & Recommendation System | AI-powered recommendation engine using Content-Based Filtering, Cosine Similarity and MultiLabelBinarizer. |
-| 🛒 Retail Billing System | Python desktop billing & invoice management system. |
-| 🌐 VeriWork OS | Modern workforce verification and onboarding platform built with React, TypeScript, Material UI, and Vite. Developed as a Frontend Developer. |
-| 🤖 AID-GRID | AI-powered emergency assistance application. |
-| 📱 AURA | Android disaster assistance application. |
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
-# 🏅 Achievements
-- 🌟 GirlScript Summer of Code 2026 — Contributor & Ambassador
-- 🎓 Unlox Academy — Campus Ambassador
-- 🥇 Hack-N-Win 3.0 — Team Leader
-- 🚀 IEEE YESIST12 Innovation Challenge — Team Member
-  
----
+## `03` — Coding Practice
 
-# 🏆 Certifications & Programs
-- 🌟 GirlScript Summer of Code 2026 (Contributor & Ambassador)
-- 🏅 Hack-N-Win 3.0
-- 🚀 IEEE YESIST12 Innovation Challenge
-- 🥽 Arexa* BharatXR* SnapAR
-- 🐍 **IBM**
-  - Python 101 for Data Science
-  - Data Visualization with Python
-
-- ☁️ **Amazon Web Services (AWS)**
-  - Cloud Practitioner Essentials
-  - Artificial Intelligence Practitioner Learning Plan
-  - Essentials of Prompt Engineering
-
-- 🤖 **Microsoft**
-  - Introduction to Artificial Intelligence Concepts
-  - Introduction to Machine Learning Concepts
-
-- 🍃 **MongoDB**
-  - Advanced Schema Patterns And Anti Patterns
-  - RAG With MongoDB
-  - Schema Design Optimization
-
-- 💻 **Python**
-  - Python with Artificial Intelligence (120 Hours)
----
-
-
-# 🌱 Current Focus
-
-- ⚛️ Frontend Development with React & TypeScript
-- 🤖 Machine Learning & AI
-- 🧩 Data Structures & Algorithms
-- ☁️ AWS Cloud
-- 💻 Full Stack Development
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>LeetCode</h3>
+      <p>Practising DSA and developing stronger problem-solving skills.</p>
+      <a href="https://leetcode.com/u/harshpreetkaur1012/">
+        <img src="https://img.shields.io/badge/View_Profile-Solve_Problems-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>Personal DSA Sheet</h3>
+      <p>My personal tracker for organising and practising DSA problems.</p>
+      <a href="https://docs.google.com/spreadsheets/d/1gpU34J2-r9WIkQzRLdLDTbE9POEB5wBUu7rAAn0F5Co/edit">
+        <img src="https://img.shields.io/badge/Open-DSA_Tracker-188038?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open Personal DSA Sheet"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 💼 Areas of Interest
+## `04` — Let's Connect
 
-- Artificial Intelligence
-- Machine Learning
-- Frontend Development
-- Software Development
-- Full Stack Development
-- Software Development
----
+<p align="center">
+  <a href="https://github.com/harshpreetkaur1012-web">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/harshpreetkaur1012/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:harshpreetkaur1012@gmail.com">Email Me</a>
+</p>
 
-
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/harshpreetkaur1012/
-- 🌐 GitHub: https://github.com/harshpreetkaur1012-web
-- 📧 Email: harshpreetkaur1012@gmail.com
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-⭐ If you enjoy my projects, consider starring the repositories.
-
-</div>
+<p align="center">
+  <i>Consistency over shortcuts. Progress over perfection.</i>
+</p>
