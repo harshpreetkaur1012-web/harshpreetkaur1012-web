@@ -105,14 +105,18 @@ I'm a Computer Science Engineering student at Punjabi University, Patiala, worki
 
 ---
 
+---
+
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/harshpreetkaur1012-web">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://linkedin.com/in/harshpreetkaur1012/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:harshpreetkaur1012@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/harshpreetkaur1012/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:harshpreetkaur1012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
